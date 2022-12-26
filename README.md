@@ -11,7 +11,11 @@ Input an `Image` object. Get an `Image` object back with `n` [SIFT](https://en.w
 
 Input a pair of `Image` objects with SIFT descriptors. Obtain a probability (between 0 and 1) of the two images resembling the same object/space
 
-## 3. ...
+## 3. Image sets intersector
+
+Input to set of `Image`s. Retrieve the intersection of the two sets
+
+## 4. ...
 
 # Development environment set-up guide
 
