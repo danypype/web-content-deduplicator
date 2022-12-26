@@ -13,7 +13,7 @@ Input a pair of `Image` objects with SIFT descriptors. Obtain a probability (bet
 
 ## 3. Image sets intersector
 
-Input `n` set of `Image`s. Retrieve the intersection of the two sets
+Input `n` sets of `Image`s. Retrieve the intersection of the two sets, given a probability threshold
 
 ## 4. ...
 
